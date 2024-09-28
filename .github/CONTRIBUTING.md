@@ -65,7 +65,7 @@ There are examples below for further clarification.
    - Create a pull request with the title:  
    `docs(wsl): create setup docs for WSL`
 
-## Behavioural Expectations
+## Behavioral Expectations
 The NYU Processor design team is part of NYU and every memeber is
 expected to uphold the [University Student Conduct Policy](https://www.nyu.edu/about/policies-guidelines-compliance/policies-and-guidelines/university-student-conduct-policy.html).
 
